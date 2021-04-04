@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise01\\Exercise01.csproj": {}
+    "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise02(DateTime)\\Exercise02(DateTime).csproj": {}
   },
   "projects": {
-    "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise01\\Exercise01.csproj": {
+    "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise02(DateTime)\\Exercise02(DateTime).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise01\\Exercise01.csproj",
-        "projectName": "Exercise01",
-        "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise01\\Exercise01.csproj",
+        "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise02(DateTime)\\Exercise02(DateTime).csproj",
+        "projectName": "Exercise02(DateTime)",
+        "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise02(DateTime)\\Exercise02(DateTime).csproj",
         "packagesPath": "C:\\Users\\Andrej\\.nuget\\packages\\",
-        "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise01\\obj\\",
+        "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Exercise02(DateTime)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Andrej\\AppData\\Roaming\\NuGet\\NuGet.Config",

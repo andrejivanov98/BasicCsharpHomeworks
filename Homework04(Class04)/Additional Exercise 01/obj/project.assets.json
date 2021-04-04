@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Homework04(Class04)\\Additional Exercise 01\\Additional Exercise 01.csproj",
+      "projectUniqueName": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Additional Exercise 01\\Additional Exercise 01.csproj",
       "projectName": "Additional Exercise 01",
-      "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Homework04(Class04)\\Additional Exercise 01\\Additional Exercise 01.csproj",
+      "projectPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Additional Exercise 01\\Additional Exercise 01.csproj",
       "packagesPath": "C:\\Users\\Andrej\\.nuget\\packages\\",
-      "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Homework04(Class04)\\Additional Exercise 01\\obj\\",
+      "outputPath": "D:\\Andrej's folder\\Private division\\SEDC-private\\Basic C#\\Homeworks\\Homework04(Class04)\\Additional Exercise 01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andrej\\AppData\\Roaming\\NuGet\\NuGet.Config",

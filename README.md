@@ -1,2 +1,2 @@
-# BasicCsharpHomeworks
-Repository for Basic C# homeworks provided by SEDC Coding Academy.
+# SEDCBasicCsharpHomeworks
+Repository for Basic C# homeworks for SEDC Coding Academy.
